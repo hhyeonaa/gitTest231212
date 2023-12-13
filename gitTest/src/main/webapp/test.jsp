@@ -10,6 +10,5 @@
 <h1>test.jsp</h1>
 <h1>test.jsp update</h1>
 <h1>github update</h1>
-dd
 </body>
 </html>
